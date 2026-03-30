@@ -9,6 +9,7 @@ export default function Header() {
 
           <nav className='space-x-8'>
             <Link href="/about">about</Link>
+            <Link href="/stories">stories</Link>
             <Link href="/tutorials">tutorials</Link>
             <Link href="/login">login</Link>
             <Link href="/register">register</Link>
